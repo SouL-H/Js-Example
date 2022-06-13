@@ -1,0 +1,6 @@
+{
+    "username":"user",
+    "password":1234,
+    "serverIP":"localhost",
+    "Ids":[1,2,3,4,5]
+}
