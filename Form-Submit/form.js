@@ -27,7 +27,7 @@ function formHandler(e){
         SCORE.value=""
        
     }else{
-        alertDOM.innerHTML=alertFunction("Error","Please fill all fields","danger")
+        alertDOM.innerHTML=alertFunction("Error","Değerleri boş girdiniz.","danger")
     }
  
 }
